@@ -1,0 +1,2 @@
+# tfsud_azdotoazure_20240127
+マルチテナントでのサービスコネクションを使用したAzure DevOps⇔Azure でのデプロイ実践
